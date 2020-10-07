@@ -17,7 +17,7 @@ File name ```run_to_start``` in source directory means something
 - Color check - darkBlue
 - Clear - #e1e1e1
 
-### Interface
+## Interface
 ![Interface](images/GUI.png)
 #### Note: 
 Only saving **as txt** is available now 
