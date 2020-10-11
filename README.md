@@ -1,4 +1,4 @@
-# Map code generator v1.0
+# Map code generator v1.1
 
 ## Installation 
 

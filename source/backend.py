@@ -23,7 +23,7 @@ class Object:
             return False
 
     def __str__(self):
-        return str("(" + str(self.type) + ", new Vector3(" + str(self.x) + "," + str(self.y) + ", 0))")
+        return str("(" + str(self.type) + ", new Vector3(" + str(self.x) + ",-5," + str(self.y) + "))")
 
 
 ## Class for main application window
